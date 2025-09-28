@@ -1,0 +1,156 @@
+[
+  {
+    "section": "Section 1",
+    "title": "Title and extent of operation of the Code",
+    "text": "This Act shall be called the Indian Penal Code, and shall extend to the whole of India except the State of Jammu and Kashmir.",
+    "type": "ipc",
+    "keywords": ["title", "extent", "operation", "code"]
+  },
+  {
+    "section": "Section 2",
+    "title": "Punishment of offences committed within India",
+    "text": "Every person shall be liable to punishment under this Code and not otherwise for every act or omission contrary to the provisions thereof, of which he shall be guilty within India.",
+    "type": "ipc",
+    "keywords": ["punishment", "offences", "India", "liability"]
+  },
+  {
+    "section": "Section 40",
+    "title": "Offence",
+    "text": "Except in the chapters and sections mentioned in clauses 2 and 3 of this section, the word 'offence' denotes a thing made punishable by this Code.",
+    "type": "ipc",
+    "keywords": ["offence", "definition", "punishable"]
+  },
+  {
+    "section": "Section 41",
+    "title": "Special law",
+    "text": "A 'special law' is a law applicable to a particular subject.",
+    "type": "ipc",
+    "keywords": ["special law", "particular subject"]
+  },
+  {
+    "section": "Section 42",
+    "title": "Local law",
+    "text": "A 'local law' is a law applicable only to a particular part of India.",
+    "type": "ipc",
+    "keywords": ["local law", "particular part", "India"]
+  },
+  {
+    "section": "Section 299",
+    "title": "Culpable homicide",
+    "text": "Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits the offence of culpable homicide.",
+    "type": "ipc",
+    "keywords": ["culpable homicide", "death", "intention", "bodily injury"]
+  },
+  {
+    "section": "Section 300",
+    "title": "Murder",
+    "text": "Except in the cases hereinafter excepted, culpable homicide is murder, if the act by which the death is caused is done with the intention of causing death, or with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused, or with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death, or if the person committing the act knows that it is so imminently dangerous that it must, in all probability, cause death or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such bodily injury as aforesaid.",
+    "type": "ipc",
+    "keywords": ["murder", "culpable homicide", "death", "intention", "bodily injury", "dangerous"]
+  },
+  {
+    "section": "Section 302",
+    "title": "Punishment for murder",
+    "text": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+    "type": "ipc",
+    "keywords": ["murder", "punishment", "death penalty", "life imprisonment", "fine"]
+  },
+  {
+    "section": "Section 304",
+    "title": "Punishment for culpable homicide not amounting to murder",
+    "text": "Whoever commits culpable homicide not amounting to murder shall be punished with imprisonment of either description for a term which may extend to ten years, or with fine, or with both; and, if the act by which the death is caused is done with the knowledge that it is likely to cause death, but without any intention to cause death, or to cause such bodily injury as is likely to cause death, the punishment shall be imprisonment of either description for a term which may extend to ten years, or with fine, or with both.",
+    "type": "ipc",
+    "keywords": ["culpable homicide", "murder", "punishment", "imprisonment", "fine", "knowledge", "intention"]
+  },
+  {
+    "section": "Section 354",
+    "title": "Assault or criminal force to woman with intent to outrage her modesty",
+    "text": "Whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to five years, and shall also be liable to fine.",
+    "type": "ipc",
+    "keywords": ["assault", "criminal force", "woman", "modesty", "outrage", "imprisonment", "fine"]
+  },
+  {
+    "section": "Section 375",
+    "title": "Rape",
+    "text": "A man is said to commit 'rape' if he has sexual intercourse with a woman under circumstances falling under any of the six following descriptions: Against her will; Without her consent; With her consent, when her consent has been obtained by putting her or any person in whom she is interested, in fear of death or of hurt; With her consent, when the man knows that he is not her husband and that her consent is given because she believes that he is another man to whom she is or believes herself to be lawfully married; With her consent when, at the time of giving such consent, by reason of unsoundness of mind or intoxication or the administration by him personally or through another of any stupefying or unwholesome substance, she is unable to understand the nature and consequences of that to which she gives consent; With or without her consent, when she is under eighteen years of age.",
+    "type": "ipc",
+    "keywords": ["rape", "sexual intercourse", "consent", "will", "minor", "intoxication", "unsoundness"]
+  },
+  {
+    "section": "Section 376",
+    "title": "Punishment for rape",
+    "text": "Whoever commits rape shall be punished with rigorous imprisonment of either description for a term which shall not be less than seven years, but which may extend to imprisonment for life, and shall also be liable to fine.",
+    "type": "ipc",
+    "keywords": ["rape", "punishment", "rigorous imprisonment", "seven years", "life imprisonment", "fine"]
+  },
+  {
+    "section": "Section 378",
+    "title": "Theft",
+    "text": "Whoever, intending to take dishonestly any moveable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft.",
+    "type": "ipc",
+    "keywords": ["theft", "dishonestly", "moveable property", "possession", "consent"]
+  },
+  {
+    "section": "Section 379",
+    "title": "Punishment for theft",
+    "text": "Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "type": "ipc",
+    "keywords": ["theft", "punishment", "imprisonment", "three years", "fine"]
+  },
+  {
+    "section": "Section 380",
+    "title": "Theft in dwelling house, etc.",
+    "text": "Whoever commits theft in any building, tent or vessel, which building, tent or vessel is used as a human dwelling, or used for the custody of property, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "type": "ipc",
+    "keywords": ["theft", "dwelling house", "building", "tent", "vessel", "custody", "property", "seven years"]
+  },
+  {
+    "section": "Section 420",
+    "title": "Cheating and dishonestly inducing delivery of property",
+    "text": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "type": "ipc",
+    "keywords": ["cheating", "dishonestly", "delivery", "property", "valuable security", "seven years", "fine"]
+  },
+  {
+    "section": "Section 498A",
+    "title": "Husband or relative of husband of a woman subjecting her to cruelty",
+    "text": "Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine. For the purposes of this section, 'cruelty' means any wilful conduct which is of such a nature as is likely to drive the woman to commit suicide or to cause grave injury or danger to life, limb or health (whether mental or physical) of the woman; or harassment of the woman where such harassment is with a view to coercing her or any person related to her to meet any unlawful demand for any property or valuable security or is on account of failure by her or any person related to her to meet such demand.",
+    "type": "ipc",
+    "keywords": ["husband", "cruelty", "woman", "harassment", "suicide", "injury", "dowry", "unlawful demand"]
+  },
+  {
+    "section": "Section 499",
+    "title": "Defamation",
+    "text": "Whoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said, except in the cases hereinafter expected, to defame that person.",
+    "type": "ipc",
+    "keywords": ["defamation", "words", "imputation", "reputation", "harm", "visible representations"]
+  },
+  {
+    "section": "Section 500",
+    "title": "Punishment for defamation",
+    "text": "Whoever defames another shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both.",
+    "type": "ipc",
+    "keywords": ["defamation", "punishment", "simple imprisonment", "two years", "fine"]
+  },
+  {
+    "section": "Section 503",
+    "title": "Criminal intimidation",
+    "text": "Whoever threatens another with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which that person is legally entitled to do, as the means of avoiding the execution of such threat, commits criminal intimidation.",
+    "type": "ipc",
+    "keywords": ["criminal intimidation", "threat", "injury", "person", "reputation", "property", "alarm"]
+  },
+  {
+    "section": "Section 504",
+    "title": "Intentional insult with intent to provoke breach of the peace",
+    "text": "Whoever intentionally insults, and thereby gives provocation to any person, intending or knowing it to be likely that such provocation will cause him to break the public peace, or to commit any other offence, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "type": "ipc",
+    "keywords": ["intentional insult", "provocation", "breach of peace", "public peace", "offence", "two years"]
+  },
+  {
+    "section": "Section 506",
+    "title": "Punishment for criminal intimidation",
+    "text": "Whoever commits, the offence of criminal intimidation shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both; If threat be to cause death or grievous hurt, etc. - and if the threat be to cause death or grievous hurt, or to cause the destruction of any property by fire, or to cause an offence punishable with death or imprisonment for life, or with imprisonment for a term which may extend to seven years, or to impute, unchastity to a woman, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+    "type": "ipc",
+    "keywords": ["criminal intimidation", "punishment", "imprisonment", "two years", "death", "grievous hurt", "seven years"]
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "section": "Section 154",
+    "title": "Information in cognizable cases",
+    "text": "Every information relating to the commission of a cognizable offence, if given orally to an officer in charge of a police station, shall be reduced to writing by him or under his direction, and be read over to the informant; and every such information, whether given in writing or reduced to writing as aforesaid, shall be signed by the person giving it, and the substance thereof shall be entered in a book to be kept by such officer in such form as the State Government may prescribe in this behalf. This is commonly known as filing an FIR (First Information Report).",
+    "type": "crpc",
+    "keywords": ["FIR", "first information report", "cognizable offence", "police station", "information", "complaint"]
+  },
+  {
+    "section": "Section 155",
+    "title": "Information as to non-cognizable cases",
+    "text": "When information is given to an officer in charge of a police station of the commission of a non-cognizable offence, he shall enter the substance of such information in a book to be kept by such officer in such form as the State Government may prescribe in this behalf, and refer the informant to a Magistrate.",
+    "type": "crpc",
+    "keywords": ["non-cognizable offence", "information", "magistrate", "police station"]
+  },
+  {
+    "section": "Section 156",
+    "title": "Police officer's power to investigate cognizable case",
+    "text": "Any officer in charge of a police station may, without the order of a Magistrate, investigate any cognizable case which a Court having jurisdiction over the local area within the limits of such station would have power to inquire into or try under the provisions of Chapter XIII.",
+    "type": "crpc",
+    "keywords": ["police officer", "investigate", "cognizable case", "magistrate", "jurisdiction"]
+  },
+  {
+    "section": "Section 157",
+    "title": "Procedure for investigation",
+    "text": "If, from information received or otherwise, an officer in charge of a police station has reason to suspect the commission of an offence which he is empowered under section 156 to investigate, he shall forthwith send a report of the same to a Magistrate empowered to take cognizance of such offence upon a police report and shall proceed in person, or shall depute one of his subordinate officers not being below such rank as the State Government may, by general or special order, prescribe in this behalf, to proceed, to the spot to investigate the facts and circumstances of the case and, if necessary, to take measures for the discovery and arrest of the offender.",
+    "type": "crpc",
+    "keywords": ["investigation", "police report", "magistrate", "offender", "arrest", "spot"]
+  },
+  {
+    "section": "Section 161",
+    "title": "Examination of witnesses by police",
+    "text": "Any police officer making an investigation under this Chapter may examine orally any person supposed to be acquainted with the facts and circumstances of the case.",
+    "type": "crpc",
+    "keywords": ["examination", "witnesses", "police", "investigation", "facts", "circumstances"]
+  },
+  {
+    "section": "Section 41",
+    "title": "When police may arrest without warrant",
+    "text": "Any police officer may without an order from a Magistrate and without a warrant, arrest any person who has been concerned in any cognizable offence, or against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists, of his having been so concerned; or who has in his possession any implement of house-breaking; or who has been proclaimed as an offender under this Code or by order of the State Government; or in whose possession anything is found which may reasonably be suspected to be stolen property and who may reasonably be suspected of having committed an offence with reference to such thing; or who obstructs a police officer while in the execution of his duty, or who has escaped, or attempts to escape, from lawful custody.",
+    "type": "crpc",
+    "keywords": ["police", "arrest", "warrant", "cognizable offence", "reasonable suspicion", "complaint", "custody"]
+  },
+  {
+    "section": "Section 41A",
+    "title": "Notice of appearance before police officer",
+    "text": "The police officer shall, in all cases where the arrest of a person is not required under the provisions of sub-section (1) of section 41, issue a notice directing the person against whom a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists that he has committed a cognizable offence, to appear before him or at such other place as may be specified in the notice.",
+    "type": "crpc",
+    "keywords": ["notice", "appearance", "police officer", "arrest", "cognizable offence", "complaint"]
+  },
+  {
+    "section": "Section 50",
+    "title": "Person arrested to be informed of grounds of arrest and of right to bail",
+    "text": "Every police officer or other person arresting any person without warrant shall forthwith communicate to him the grounds on which the arrest is made and his right to be released on bail.",
+    "type": "crpc",
+    "keywords": ["arrest", "grounds", "warrant", "bail", "rights", "communication"]
+  },
+  {
+    "section": "Section 56",
+    "title": "Person arrested not to be detained more than twenty-four hours",
+    "text": "No police officer shall detain in custody a person arrested without warrant for a longer period than under all the circumstances of the case is reasonable, and such period shall not, in the absence of a special order of a Magistrate under section 167, exceed twenty-four hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate's Court.",
+    "type": "crpc",
+    "keywords": ["detention", "twenty-four hours", "arrest", "warrant", "custody", "magistrate", "court"]
+  },
+  {
+    "section": "Section 57",
+    "title": "Person arrested to be taken before Magistrate or officer in charge of police station",
+    "text": "A police officer making an arrest without warrant shall, without unnecessary delay and subject to the provisions herein contained as to bail, take or send the person arrested before a Magistrate having jurisdiction in the case, or before the officer in charge of a police station.",
+    "type": "crpc",
+    "keywords": ["arrest", "magistrate", "police station", "bail", "jurisdiction", "delay"]
+  },
+  {
+    "section": "Section 436",
+    "title": "In what cases bail to be taken",
+    "text": "When any person accused of any non-cognizable offence, or any cognizable offence not punishable with death or imprisonment for life, is arrested or detained without warrant by an officer in charge of a police station, or appears or is brought before a Court, he may be released on bail by such officer or Court, as the case may be.",
+    "type": "crpc",
+    "keywords": ["bail", "non-cognizable offence", "cognizable offence", "arrest", "detention", "court", "release"]
+  },
+  {
+    "section": "Section 437",
+    "title": "When bail may be taken in case of non-bailable offence",
+    "text": "When any person accused of a non-bailable offence is arrested or detained without warrant, or appears or is brought before a Court other than the High Court or Court of Session, he may be released on bail, but shall not be so released if there appear reasonable grounds for believing that he has been guilty of an offence punishable with death or imprisonment for life.",
+    "type": "crpc",
+    "keywords": ["bail", "non-bailable offence", "arrest", "detention", "court", "death", "life imprisonment", "release"]
+  },
+  {
+    "section": "Section 438",
+    "title": "Direction for grant of bail to person apprehending arrest",
+    "text": "When any person has reason to believe that he may be arrested on accusation of having committed a non-cognizable offence or a cognizable offence which is bailable, he may apply to the High Court or the Court of Session for a direction under this section that in the event of such arrest, he shall be released on bail; and that Court may, if it thinks fit, direct that in the event of such person being arrested on such accusation he shall be so released. This is commonly known as anticipatory bail.",
+    "type": "crpc",
+    "keywords": ["anticipatory bail", "arrest", "high court", "session court", "non-cognizable", "bailable", "direction"]
+  },
+  {
+    "section": "Section 439",
+    "title": "Special powers of High Court or Court of Session regarding bail",
+    "text": "A High Court or Court of Session may direct that any person accused of an offence and in custody be released on bail, and may impose any condition which it considers necessary for such release.",
+    "type": "crpc",
+    "keywords": ["bail", "high court", "session court", "custody", "conditions", "release", "accused"]
+  },
+  {
+    "section": "Section 167",
+    "title": "Procedure when investigation cannot be completed in twenty-four hours",
+    "text": "Whenever any person is arrested and detained in custody, and it appears that the investigation cannot be completed within the period of twenty-four hours fixed by section 57, and there are grounds for believing that the accusation or information is well-founded, the officer in charge of the police station or the police officer making the investigation, if he is not below the rank of sub-inspector, shall forthwith transmit to the nearest Judicial Magistrate a copy of the entries in the diary hereinafter prescribed relating to the case, and shall at the same time forward the accused to such Magistrate. The Magistrate to whom an accused person is forwarded under this section may, whether he has or has not jurisdiction to try the case, from time to time, authorize the detention of the accused in such custody as such Magistrate thinks fit, for a term not exceeding fifteen days in the whole.",
+    "type": "crpc",
+    "keywords": ["investigation", "detention", "twenty-four hours", "judicial magistrate", "custody", "fifteen days", "accused"]
+  },
+  {
+    "section": "Section 173",
+    "title": "Report of police officer on completion of investigation",
+    "text": "Every investigation under this Chapter shall be completed without unnecessary delay. As soon as it is completed, the officer in charge of the police station shall forward to a Magistrate empowered to take cognizance of the offence on a police report, a report in the form prescribed by the State Government. This is commonly known as filing a chargesheet.",
+    "type": "crpc",
+    "keywords": ["investigation", "completion", "police report", "chargesheet", "magistrate", "cognizance", "delay"]
+  },
+  {
+    "section": "Section 197",
+    "title": "Prosecution of Judges and public servants",
+    "text": "When any person who is or was a Judge or Magistrate or a public servant not removable from his office save by or with the sanction of the Government is accused of any offence alleged to have been committed by him while acting or purporting to act in the discharge of his official duty, no Court shall take cognizance of such offence except with the previous sanction of the Central Government, or of the State Government, as the case may be.",
+    "type": "crpc",
+    "keywords": ["prosecution", "judges", "public servants", "sanction", "government", "official duty", "cognizance"]
+  },
+  {
+    "section": "Section 125",
+    "title": "Order for maintenance of wives, children and parents",
+    "text": "If any person having sufficient means neglects or refuses to maintain his wife, his legitimate or illegitimate minor child, or his father or mother, unable to maintain himself or herself, a Magistrate of the first class may, upon proof of such neglect or refusal, order such person to make a monthly allowance for the maintenance of his wife or such child, father or mother, at such monthly rate not exceeding five hundred rupees in the whole, as such Magistrate thinks fit.",
+    "type": "crpc",
+    "keywords": ["maintenance", "wife", "children", "parents", "magistrate", "allowance", "neglect", "refusal"]
+  },
+  {
+    "section": "Section 144",
+    "title": "Power to issue order in urgent cases of nuisance or apprehended danger",
+    "text": "In cases where, in the opinion of a District Magistrate, a Sub-divisional Magistrate or any other Executive Magistrate specially empowered by the State Government in this behalf, there is sufficient ground for proceeding under this section and immediate prevention or speedy remedy is desirable, such Magistrate may, by a written order stating the material facts of the case and served in the manner provided by this Code, direct any person to abstain from a certain act or to take certain order with respect to certain property in his possession or under his management, if such Magistrate considers that such direction is likely to prevent, or tends to prevent, obstruction, annoyance or injury to any person lawfully employed, or danger to human life, health or safety, or a disturbance of the public tranquillity, or a riot, or an affray. This is commonly invoked to prohibit assemblies.",
+    "type": "crpc",
+    "keywords": ["Section 144", "magistrate", "urgent cases", "nuisance", "danger", "assembly", "public order", "riot", "prohibition"]
+  }
+]

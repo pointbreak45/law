@@ -1,0 +1,69 @@
+# Node
+node_modules/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+dist/
+
+# Misc
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+
+# Environment
+.env.*
+.envrc
+
+# Coverage
+coverage/
+*.cover
+
+# Test
+*.test.js
+*.test.ts
+
+# Others
+*.sqlite3
+*.db
+*.sqlite
+
+# Windows
+*.exe
+*.dll
+*.obj
+*.o
+*.pyc
+*.pyo
+*.pyd
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+*.sublime-workspace
+*.sublime-project
+*.idea/
